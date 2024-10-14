@@ -4,7 +4,7 @@ Welcome to the Octobins Simulator!
 
 🎉 This is an interactive 3D simulator made for the e-commerce product "Octobins". It allows customers to create their own unique Octobin designs virtually, and then prompts them to make the purchase with the click of a button.  
 
-🔗 Live Demo: [octobins.netlify.app](octobins.netlify.app) 
+🔗 Live Demo: [octobins.netlify.app](https://octobins.netlify.app) 
 
 🛠️ Tools & Technologies  
 Three.js: For rendering 3D models and animations in the browser.  
