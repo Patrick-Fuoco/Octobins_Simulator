@@ -14,8 +14,8 @@ OAuth: Implemented for secure authentication and API access
 📸 Screenshots
 Design Interface: A beautiful and interactive 3D interface where users can rotate, move, and customize their bin designs.
 
-(imgs_for_readme/simulator.png)
+![Simulator](imgs_for_readme/simulator.png)
 
 Checkout System: A smooth one-click checkout experience where pricing is updated dynamically based on your custom design.
 
-(imgs_for_readme/checkout.png)
+![Checkout](imgs_for_readme/checkout.png)
