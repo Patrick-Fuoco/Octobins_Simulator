@@ -1,0 +1,123 @@
+.price-popup-container .popup {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.15);
+}
+
+.pieces-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.octogonal-bin-container img {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.pieces-details-container p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.price {
+  font-weight: bold;
+  color: #333;
+}
+
+.discount-notification {
+  background-color: #e0f7fa;
+  color: #00796b;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.place-order-button {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.go-back-button {
+  width: 100%;
+  background-color: #333;
+  color: white;
+  border: none;
+  -webkit-text-stroke-color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 18px;
+  z-index: 9;
+  width: fit-content;
+  position: absolute;
+  margin: 25px;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ffffff;
+}
+.ant-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ant-modal-content {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap");
+
+.ant-modal-content {
+  text-align: center; /* Center the text */
+  font-size: 20px; /* Adjust font size for better readability */
+  font-family: "Chelsea Market", cursive; /* Ensuring font consistency */
+  line-height: 1; /* Improve line spacing for better readability */
+}
+
+/* List item styles for better number alignment */
+.ant-modal-body li {
+  margin-bottom: 8px; /* Space between items */
+  font-size: 20px; /* Consistent font size */
+  line-height: 1.5; /* Adequate line spacing */
+  list-style-position: outside; /* Position the numbers outside the text block */
+  padding-left: 30px; /* Ensures space for the numbers outside the text */
+  text-align: left; /* Aligns text to the left */
+}
+
+.ant-modal-body p {
+  text-align: center; /* Center the text */
+  font-size: 20px; /* Adjust font size for better readability */
+  line-height: 1.6; /* Improve line spacing for better readability */
+}
+
+/* Increase specificity if the style isn't applied */
+.ant-modal-header .ant-modal-title {
+  font-size: 25px !important; /* Increased font size with !important to ensure application */
+  font-weight: bold;
+  text-align: center;
+}
+
+.ant-modal-close-x {
+  font-size: 40px; /* Bigger close button */
+}

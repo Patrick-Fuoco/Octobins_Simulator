@@ -1,0 +1,30 @@
+/* Octogonal.css */
+.swal2-popup {
+  background: #1e1e1e;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  color: white;
+}
+
+.swal2-title {
+  color: white;
+}
+
+.swal2-actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.swal2-actions button {
+  background: #444;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.swal2-actions button:hover {
+  background: #666;
+}
