@@ -11,7 +11,7 @@ React: For building a dynamic and responsive user interface.
 Blender: Used to slice STL files and generate 3D models for rendering.
 OAuth: Implemented for secure authentication and API access
 
-📸 Screenshots \n
+📸 Screenshots
 Design Interface: A beautiful and interactive 3D interface where users can rotate, move, and customize their bin designs.
 
 ![Simulator](imgs_for_readme/simulator.png)
