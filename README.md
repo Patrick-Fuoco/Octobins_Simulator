@@ -5,7 +5,7 @@ Welcome to the Octobins Simulator! 🎉 This is an interactive 3D simulator made
 
 🔗 Live Demo: [octobins.netlify.app](octobins.netlify.app) 
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies  
 Three.js: For rendering 3D models and animations in the browser.  
 React: For building a dynamic and responsive user interface.  
 Blender: Used to slice STL files and generate 3D models for rendering.  
